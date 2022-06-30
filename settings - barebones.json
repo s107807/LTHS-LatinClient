@@ -1,0 +1,12 @@
+{
+    "configuration": {
+        "version" : "0.1",
+        "browser-type": "none",
+        "timeout-delay": "5"
+    },
+    "schoology": {
+        "latin-link": "none",
+        "username": "none",
+        "password": "none"
+    }
+}
