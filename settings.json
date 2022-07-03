@@ -1,5 +1,8 @@
 {
     "configuration": {
+        "action-button": "`",
+        "discord_rpc" : true,
+        "icon" : "icon.ico",
         "browser-type": "none",
         "timeout-delay": "5"
     },
