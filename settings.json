@@ -6,7 +6,7 @@
         "discord_tracking" : true,
         "discord_advertisement" : false,
         "icon" : "icon.ico",
-        "browser-type": "Chrome",
+        "browser-type": "none",
         "timeout-delay": "5"
     },
     "schoology": {
