@@ -4,7 +4,7 @@
         "sound" : true,
         "discord_rpc" : true,
         "discord_tracking" : true,
-        "discord_advertisement" : false,
+        "discord_advertisement" : true,
         "icon" : "icon.ico",
         "browser-type": "none",
         "timeout-delay": "5"
